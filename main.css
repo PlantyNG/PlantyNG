@@ -1,0 +1,57 @@
+html {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+}
+
+body {
+    background: #5B5B5B;
+    color: #9BEB4B;
+}
+
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: plum;
+}
+
+a:hover, a:active {
+    color: #eee;
+}
+
+button, input, textarea, select {
+    font: inherit;
+}
+
+p {
+    line-height: 1.5;
+}
+
+h1, h2, thead {
+    color: hsl(120, 84%, 83%);
+    font-style: italic;
+    margin-bottom: 5px;
+    padding: 0.5rem;
+}
+
+hr {
+    border: 2px dashed #eee;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+ol, ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+table, th, td, tbody, caption {
+    background-color: rgb(32, 32, 32);
+    border: 2px solid hsl(0, 0%, 100%);
+    border-collapse: collapse;
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+}
