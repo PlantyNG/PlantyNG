@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Planty
 - 👀 I’m interested in developing video games
-- 🌱 I’m currently learning Python
+- 🌱 I made a website about myself
 - 💞️ I’m looking to collaborate on game development or other python stuff
 - 📫 You can reach me from Newgrounds and YouTube
 - 😄 Pronouns: They/them
